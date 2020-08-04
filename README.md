@@ -16,7 +16,10 @@ OR
 Place both files in your Users folder
 - run using command ~/gitsetup.sh or ~/gitcommit.sh
 
-To reach your Users folder, open your Documents folder, then press option + command + up-arrow-key, and drag and drop the files there. 
+To reach your Users folder
+- open your Documents folder
+- press Option(⌥) + Command(⌘) + Up-Arrow
+- drag and drop the files there. 
 
 ![Screen Shot 2020-08-04 at 11 38 48 AM](https://user-images.githubusercontent.com/58582357/89331814-3c3eeb80-d647-11ea-9a1d-296d309da2e0.png)
 
