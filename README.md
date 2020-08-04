@@ -1,6 +1,6 @@
 # git-shell-script
 
-Shell script created to make committing onto github quicker.
+Shell script created for make commits onto github quicker.
 
 ## How to use
 
